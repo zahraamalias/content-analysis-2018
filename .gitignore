@@ -1,3 +1,6 @@
+*.mm
+*.mm.index
+
 launch-nb.sh
 nb_sessions/
 
@@ -52,6 +55,8 @@ coverage.xml
 # Translations
 *.mo
 *.pot
+*.zip
+*.xml
 
 # Django stuff:
 *.log
