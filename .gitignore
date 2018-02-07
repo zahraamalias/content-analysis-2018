@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 data/scikit_learn_data/*
 =======
+=======
+>>>>>>> 0bef7f72dfce907801957776fa48501d00a04d9f
 data/SampleJobAds.csv
 data/resumeAll.*
 data/ASCO_abstracts.csv
@@ -9,7 +12,10 @@ data/supplement/
 
 data/scikit_learn_data/*
 data/1992embeddings_hs_new3.sg
+<<<<<<< HEAD
 >>>>>>> 5a75d67f7f25cf14399b8a5af400474b57824014
+=======
+>>>>>>> 0bef7f72dfce907801957776fa48501d00a04d9f
 
 data/corpora/*
 data/stemmers/*
@@ -78,8 +84,11 @@ coverage.xml
 # Translations
 *.mo
 *.pot
+<<<<<<< HEAD
 *.zip
 *.xml
+=======
+>>>>>>> 0bef7f72dfce907801957776fa48501d00a04d9f
 
 # Django stuff:
 *.log
