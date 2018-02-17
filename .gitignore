@@ -1,9 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 data/scikit_learn_data/*
 =======
 =======
 >>>>>>> 0bef7f72dfce907801957776fa48501d00a04d9f
+=======
+stanford-NLP/
+
+>>>>>>> 0dbd711943f6965fc91c883fe001d81eba4df43a
 data/SampleJobAds.csv
 data/resumeAll.*
 data/ASCO_abstracts.csv
